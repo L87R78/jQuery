@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<script>
+    $(document).ready(function () {
+        $('input[name=key]').keyup(performUsernameAjax).focusin(performUsernameAjax);
+        $('#users').click(function (event) {
+            console.log('hello');
+            event.preventDefault();
+            console.log($(this).text());
+            var dataStr = {
+                'username': $(this).text(),
+                'method': 'userdata'
+            };
+            var base_url = '<?= base_url() ?>';
+            var url = base_url + 'login/userdata';
+            console.log(url);
+            $.ajax({
+                type: 'POST',
+                data: dataStr,
+                dataType: 'json',
+                url: url,
+                success: function (data) {
+                    $("#userInfo").append("<p><ul><h3> " + data.username + "'s Info:</h3>");
+
+                    $("#userInfo").append('<li> The username: ' + data.username + '</li>');
+                    $("#userInfo").append('<li> The full name: ' + data.fullname + '</li>');
+                    $("#userInfo").append('<li> The num of failed logins: ' + data.failedlogin + '</li>');
+
+                    $("#userInfo").append('</ul></p>');
+                }
+            });
+            return false; //for good measure
+        });
+    });
+</script>
+
+
+</body>
+</html>

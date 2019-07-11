@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a051e39-55d3-45a1-808e-4658c0bfc384" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/add swap shift right in  list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unit test/Unit Testing with Mocha/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unit test/Unit Testing with Mocha/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unit test/Unit Testing with Mocha/03. Char Lookup/char lookup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unit test/Unit Testing with Mocha/03. Char Lookup/char lookup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Unit test/Unit Testing with Mocha/04. Math Enforcer/math enforcer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Unit test/Unit Testing with Mocha/04. Math Enforcer/math enforcer.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-617295434">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="889" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="889" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/add swap shift right in  list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="n#!!block;n#createList#0" />
+                <element signature="e#1060#1406#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../Unit test/Unit Testing with Mocha/04. Math Enforcer/math enforcer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1708">
+              <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/add swap shift right in  list.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="760" />
+    <option name="y" value="26" />
+    <option name="width" value="610" />
+    <option name="height" value="714" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="02. Add  Swap  Shift Left  Right in List" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02. Add  Swap  Shift Left  Right in List" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/add swap shift right in  list.js" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.list.swap.Should return false">
+    <configuration name="exam13Nov2016" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/add swap shift right in  list.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="list" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/add swap shift right in  list.js</test-file>
+      <test-names>
+        <name value="list" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="list.add.has empty array" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/add swap shift right in  list.js</test-file>
+      <test-names>
+        <name value="list" />
+        <name value="add" />
+        <name value="has empty array" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="list.swap.Should return false" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/add swap shift right in  list.js</test-file>
+      <test-names>
+        <name value="list" />
+        <name value="swap" />
+        <name value="Should return false" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="list.swap.Should return falsse" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/add swap shift right in  list.js</test-file>
+      <test-names>
+        <name value="list" />
+        <name value="swap" />
+        <name value="Should return falsse" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="list.toString.Should return works" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/add swap shift right in  list.js</test-file>
+      <test-names>
+        <name value="list" />
+        <name value="toString" />
+        <name value="Should return works" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.exam13Nov2016" />
+      <item itemvalue="Mocha.list" />
+      <item itemvalue="Mocha.list.add.has empty array" />
+      <item itemvalue="Mocha.list.swap.Should return falsse" />
+      <item itemvalue="Mocha.list.swap.Should return false" />
+      <item itemvalue="Mocha.list.toString.Should return works" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.list.swap.Should return false" />
+        <item itemvalue="Mocha.list.toString.Should return works" />
+        <item itemvalue="Mocha.list" />
+        <item itemvalue="Mocha.list.swap.Should return falsse" />
+        <item itemvalue="Mocha.list.add.has empty array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a051e39-55d3-45a1-808e-4658c0bfc384" name="Default Changelist" comment="" />
+      <created>1541264659629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541264659629</updated>
+      <workItem from="1541264661008" duration="801000" />
+      <workItem from="1541266082592" duration="5634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="list - 2018.11.03 at 20h 27m 21s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list_swap_Should_return_false - 2018.11.03 at 20h 28m 27s.xml">
+      <configuration name="list.swap.Should return false" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list_swap_Should_return_false - 2018.11.03 at 20h 28m 32s.xml">
+      <configuration name="list.swap.Should return false" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2018.11.03 at 20h 28m 36s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2018.11.03 at 20h 28m 45s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list - 2018.11.03 at 20h 33m 06s.xml">
+      <configuration name="list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list_toString_Should_return_works - 2018.11.03 at 20h 34m 32s.xml">
+      <configuration name="list.toString.Should return works" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list_swap_Should_return_false - 2018.11.03 at 20h 36m 52s.xml">
+      <configuration name="list.swap.Should return false" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list_swap_Should_return_false - 2018.11.03 at 20h 37m 09s.xml">
+      <configuration name="list.swap.Should return false" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="list_swap_Should_return_false - 2018.11.03 at 20h 42m 54s.xml">
+      <configuration name="list.swap.Should return false" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6435000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.035714287" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.109656304" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_02. Add _ Swap _ Shift Left _ Right in List_Авторско решение + Тестове.zip/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="164" selection-end-column="3" />
+          <folding>
+            <element signature="e#29#5581#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add swap shift right in  list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#!!block;n#createList#0" />
+            <element signature="e#1060#1406#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Unit test/Unit Testing with Mocha/04. Math Enforcer/math enforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1708">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
