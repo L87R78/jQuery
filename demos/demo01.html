@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    <title>Title</title>
+</head>
+<body>
+<script>    
+    function solve() {
+        let myContainer = $('<div>');
+        myContainer
+            .appendTo('body')
+            .attr("id", "main-element")
+            .addClass("first-div")
+            .text("Some Text");
+
+                            //може и така
+        //let paragraph = $("<p id='first-paragraph' class='lubo'>Hellooo</p>");
+        //paragraph.appendTo(myContainer);
+        //console.log( $('.first-div'));
+        $('body div')
+                    .css("background", "red")
+
+
+
+
+
+    }
+    solve()
+</script>
+</body>
+</html>

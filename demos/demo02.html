@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function solve() {
+        let input= $('<input>');
+        input
+            .appendTo('body')
+            //.attr("type", "password")
+            .attr("disabled", "disabled")
+            .val("Hello");
+
+        let checkBox = $("<input type='checkbox'>");
+        checkBox.appendTo('body')
+            .attr('checked', 'checked');
+    }
+    solve();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search in List</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+</head>
+<body>
+<ul id="towns">
+    <li>Sofia</li>
+    <li>Pleven</li>
+    <li>Varna</li>
+    <li>Plovdiv</li>
+</ul>
+<input type="text" id="searchText" />
+<button onclick="search()">Search</button>
+<div id="result"></div>
+    <script>
+        function search() {
+            ///*
+            //console.log(liValues)
+            let targetValue = $('#searchText')   ; //тук му казваме да взима каквото му подадем в търсачката
+            let count = 0;
+            if(!targetValue === '') {
+
+                let liValues = $('#towns').find('li').each((index, el) => {
+                    if (el.textContent.includes(targetValue.val())) { // тук казваме ако има в li-тата думата, която сме въвели от targetValue да върне true или false
+                        $(el).css('font-weight', 'bold');
+                        count++
+                        //targetValue.clear()
+                    } else {
+                        $(el).css('font-weight', '')
+                    }
+                })
+
+            }
+            $('#result').text(count + ' matches found.');
+           targetValue.val('') // това изтрива нещото което сме го написали в полето, -> да не стои постоянно там
+
+        //*/
+
+            /*
+        function search() {
+
+           let test = $('#searchText')[0].value;
+           //console.log(test);
+           let count = 0;
+           $('#towns').each(function(){
+               var word = $(this).children();
+               //console.log(word);
+
+               word.each(function () {
+                   let townID = $(this).text();
+                   //console.log(townID)
+
+                  if(townID.includes(test)){
+                      // console.log('kur')
+                      $(this).css('font-weight', 'bold');
+                      count++;
+                  }
+
+               });
+               $('#result').text(`${count} matches found.`);
+               $(this).css('font-weight', 'white');
+           });
+
+
+           $('input:text').click(
+               function() {
+                   $(this).val('');
+               }
+       );
+         */
+            /*
+            let targetValue = $('#searchText').val();
+            if (targetValue.trim() !== '') {
+                let arr = $(`#towns li:contains(${targetValue})`);
+                console.log(arr);
+            }
+        }
+        */
+    }
+
+    </script>
+</body>
+</html>

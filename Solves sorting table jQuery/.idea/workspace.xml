@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67a8cb76-cd7f-4e30-80b3-dbdaea4340fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 18 Mar 2018/JS Advanced Exam - 18 Mar 2018.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 18 Mar 2018/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 18 Mar 2018/restaurant-bill.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 18 Mar 2018/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 19 Dec 2016/JS Advanced Exam - 19 Dec 2016.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 19 Dec 2016/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 19 Dec 2016/move-up-down.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 19 Dec 2016/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 23 July 2017/JS Advanced Exam - 23 July 2017.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 23 July 2017/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 23 July 2017/select-print.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Exam - 23 July 2017/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Retake Exam - 5 Sept 2017/JS Advanced Retake Exam - 5 Sept 2017.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Retake Exam - 5 Sept 2017/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Retake Exam - 5 Sept 2017/sort-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Exams/JS Advanced Retake Exam - 5 Sept 2017/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New Exercises-part02/05. DOM Search/dom-search.js" beforeDir="false" afterPath="$PROJECT_DIR$/../New Exercises-part02/05. DOM Search/dom-search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/demo05.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/demo05.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-245746590">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sort the table alphabetically by name/sort the table alphabetically by name.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sort the table alphabetically by name/sort the table alphabetically by name.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="905" />
+    <option name="y" value="15" />
+    <option name="width" value="1045" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Solves sorting table jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Solves sorting table jQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67a8cb76-cd7f-4e30-80b3-dbdaea4340fe" name="Default Changelist" comment="" />
+      <created>1540636867414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540636867414</updated>
+      <workItem from="1540636872317" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="237000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sort the table alphabetically by name/sort the table alphabetically by name.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

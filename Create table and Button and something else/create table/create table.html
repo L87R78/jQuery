@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Text from List</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="header">
+    <ul class="tabs">
+        <li><a href="#><span class="tab">Profile</span></a></li>
+        <li><a href="#><span class="tab">Edit</span></a></li>
+    </ul>
+</div>
+<button onclick="extractText()">
+    Extract Text</button>
+<div id="result"></div>
+<script>
+    function extractText() {
+        let result = $('#header');
+        $('result')
+            .append($('<li class="list-item">')
+                .append($('<a class="button">X</a>'))
+                .append($(`<strong>"lubomir"</strong>`)));
+
+        $("#header ul").append(result);
+
+
+
+
+
+    }
+</script>
+</body>
+</html>
