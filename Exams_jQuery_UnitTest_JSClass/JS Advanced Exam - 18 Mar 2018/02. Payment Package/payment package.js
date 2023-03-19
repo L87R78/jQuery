@@ -1,6 +1,5 @@
 let expect = require('chai').expect;
 
-
 class PaymentPackage {
     constructor(name, value) {
         this.name = name;

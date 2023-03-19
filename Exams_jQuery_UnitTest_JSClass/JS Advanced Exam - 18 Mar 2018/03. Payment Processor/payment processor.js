@@ -18,7 +18,6 @@ class PaymentProcessor {
     registerPayment(id, name, type, value){
 
         if((typeof id === "string")&&(id!=='')&&(typeof name === "string")&&(name!=='')&&((this.types).includes(type))&&(typeof value === "number")&&(!this.payments.hasOwnProperty(id))){
-            //let value1 = Number(value.toFixed(this.precision));
 
             this.payments[id] = {
                 name:name,

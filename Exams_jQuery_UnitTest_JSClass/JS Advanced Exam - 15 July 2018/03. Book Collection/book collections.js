@@ -68,12 +68,3 @@ class BookCollection {
         return Math.max(0, this.shelfCapacity - this.shelf.length);
     }
 }
-
-// let livingRoom = new BookCollection("Programming", "livingRoom", 5)
-//
-// livingRoom.addBook("book1", "author1", 'history')
-// livingRoom.addBook("book2", "author2", 'lubo')
-// livingRoom.addBook("book3", "author3", 'history')
-//
-//
-// console.log(livingRoom.toString());

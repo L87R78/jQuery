@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <title>Text from List</title>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"
-            integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-            crossorigin="anonymous"></script>
-
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+        crossorigin="anonymous">
+    </script>
 </head>
 <body>
 <ul id="items">
@@ -21,33 +21,8 @@
 </html>
 <script>
     function extractText() {
-                    //solve 01
-        /*
-        let idItems = $('#items > li').toArray();
-        let arr = [];
-        for (let i = 0; i < idItems.length; i++) {
-            arr.push(idItems[i].textContent);
-        }
-        $('#result').html(arr.join(", "));
-        */
-
-                    //solve 02
-        /*
-        let arr = [];
-        let test = $('#items *');
-        test.each(function() {
-            arr.push($( this ).text());
-        });
-        $('#result').text(arr.join(', '))
-        */
-
-                    //solve 03
-
         let value = $('#items li').toArray()
             .map(li => $(li).text()).join(', ');
         $('#result').text(value)
-
-
     }
 </script>
-

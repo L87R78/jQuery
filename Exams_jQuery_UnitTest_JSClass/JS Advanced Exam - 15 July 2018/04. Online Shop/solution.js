@@ -41,6 +41,7 @@ function onlineShop(selector) {
             button.attr('disabled',true);
         }
     });
+
     button.on('click', addProduct);
     function addProduct() {
         button.attr('disabled',true);

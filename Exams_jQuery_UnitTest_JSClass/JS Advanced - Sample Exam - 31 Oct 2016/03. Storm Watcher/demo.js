@@ -1,6 +1,3 @@
-
-
-
 (function () {
     let id = 0;
 
@@ -38,8 +35,3 @@
         }
     }
 })();
-
-let test = new closure(10, 40, 680, 30);
-console.log(test.toString());
-let test2 = new closure(10, 40, 680, 30);
-console.log(test2.toString());

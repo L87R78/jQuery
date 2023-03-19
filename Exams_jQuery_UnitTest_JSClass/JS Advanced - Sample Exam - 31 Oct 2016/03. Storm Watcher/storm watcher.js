@@ -38,4 +38,3 @@ function solve() {
     })();
 }
 solve(10, 40, 680, 30);
-console.log(solve());

@@ -1,23 +1,7 @@
-
-
-I need your help.
-
-How can I add build some functionality to my existing code such that I would be able to search in the ul list using an input box and automatically highlight each match like a (find-as-you-type) style kind of search?
-
-I am jQuery friendly :)
-
-For the fiddlers out there here is a fiddle: http://jsfiddle.net/83sPQ/1/
-
-Here is the markup:
-
 <!DOCTYPE html>
-
 <html>
-
 <head>
-
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-
     <style type="text/css">
         * {
             font-family: Segoe UI;
@@ -66,11 +50,9 @@ Here is the markup:
     <script type="text/javascript">
         window.onload = function() {
             let a = $('#refdocs');
-            console.log(a);
 
             $('#refdocs').on('keyup change', function () {
                 var search = $(this).val();
-               // console.log(search);
                 $('#refdocs_list li').each(function () {
                     var val = $(this).text();
 
@@ -82,26 +64,13 @@ Here is the markup:
 
                 });
             });
-
-
-
         }
-
-
-
-
     </script>
-
 </head>
-
 <body>
-
 <div id="refdocs_main">
-
     <div id="refdocs_input"><input type="text" id="refdocs"></div>
-
     <div id="refdocs_wrapper">
-
         <div id="refdocs_list">
             <ul>
                 <li>9094203</li>
@@ -115,12 +84,7 @@ Here is the markup:
                 <li>Ted</li>
             </ul>
         </div>
-
     </div>
-
 </div>
-
 </body>
-
 </html>
-

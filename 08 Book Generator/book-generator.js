@@ -1,6 +1,4 @@
 function createBook(selector, title, author, ISBN ) {
-    //let textArea = $(`<div class="counter" disabled="disabled"></div>`);
-    //let buttonIncrement = $('<button class="btn" id="incrementBtn">Increment</button>');
 
     let numberOfBook = $(`${selector} div`).length+1;
     let id = 'book'+numberOfBook;

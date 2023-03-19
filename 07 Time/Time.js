@@ -9,7 +9,7 @@ function timer() {
     let stopTimer = $('#stop-timer');
     startTimer.on('click', function () {
         if(interval){
-            clearInterval(interval) // това му казва, когато цъкнеме върху клика да не става нищо
+            clearInterval(interval);
         }
        interval = setInterval(updateTime, 1000);
 

@@ -162,9 +162,5 @@ describe("list", function () {
             arr.add("Angel");
             assert.equal(arr.orderBy(),'Angel, lubo');
         });
-
-
-
-
     });
 });

@@ -17,13 +17,9 @@
     <script>
         function extractText() {
           let liValues = $('#items').find('> li')
-                .toArray()
-                //.forEach((el,index) => {console.log(index + ' ' + el)})
-                .map((li) => li.textContent);
-
-          //console.log(liValues)
+            .toArray()
+            .map((li) => li.textContent);
           $('#result').text(liValues.join(', '))
-
         }
     </script>
 </body>

@@ -6,12 +6,9 @@ class MailBox {
         return this.box.length;
     }
 
-
     toString(){
         console.log('sass')
     }
-
-
 }
 let mb = new MailBox();
 console.log("Msg count: " + mb.messageCount);
